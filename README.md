@@ -1,4 +1,5 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ocxh0)](https://solved.ac/profile/ocxh0)
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ocxh0)
 <!--
 **ocxh/ocxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

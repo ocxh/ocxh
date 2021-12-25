@@ -1,6 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ocxh&show_icons=true)](https://github.com/ocxh/github-readme-stats)<br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ocxh0)](https://solved.ac/ocxh0)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ocxh0)](https://solved.ac/ocxh0/)
 <!--
 **ocxh/ocxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
